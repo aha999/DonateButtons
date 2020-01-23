@@ -2,7 +2,7 @@
 This is a repository for various donate buttons for github etc., anyone can contribute and add new styles!
 
 ---
-Donate Buttons:
+Donate Buttons (png format):
 - [LiberaPay](https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png)
 - [PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)
 
