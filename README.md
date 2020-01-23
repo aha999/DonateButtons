@@ -7,6 +7,7 @@ Donate Buttons (png format):
 
 ## Contribute
 - This is an empty button of the first style: [Button](https://github.com/aha999/DonateButtons/blob/master/Template.png)
+- Include a photoshop file for possible future needs
 
 ## Other
 Paypal button from: https://github.com/stefan-niedermann/paypal-donate-button
