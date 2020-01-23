@@ -7,6 +7,8 @@ Donate Buttons (png format):
 - [PayPal](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)
 
 ---
+## Contribute
+- This is an empty button of the first style: [Button](https://github.com/aha999/DonateButtons/blob/master/Template.png)
 
 Paypal button from: https://github.com/stefan-niedermann/paypal-donate-button
 
