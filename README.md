@@ -12,7 +12,7 @@ Donate Buttons (png format):
 - Include a photoshop file for possible future needs
 
 ## Resources:
-- LiberaPay official logos & fonts: https://liberapay.com/about/logos
+- LiberaPay official logos & fonts: https://liberapay.com/about/logos, donate widget: https://liberapay.com/assets/widgets/donate.svg
 - Paypal official logos: https://www.paypal.com/us/webapps/mpp/logo-center, https://www.paypal.com/uk/webapps/mpp/logo-center
 
 ## Other
