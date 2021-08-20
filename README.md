@@ -12,6 +12,13 @@ Donate Buttons (png format):
 ![Image description](paypal-donate-icon-7.png)
 * [Cropped from Source](https://icon-library.com/icon/paypal-donate-icon-7.html) - Paypal Donate Icon #298146
 
+## Donation buttons on other platforms:
+
+- Paypal donation button generation website: https://www.paypal.com/donate/buttons
+
+- Patreon buttons (official): [Link](https://www.patreon.com/brand)
+
+- Ko-Fi buttons (official) : [Link](https://more.ko-fi.com/brand-assets)
 
 ## Contribute
 - This is an empty button of the first style: [Button](https://github.com/aha999/DonateButtons/blob/master/Template.png)
