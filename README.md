@@ -4,6 +4,9 @@ This is a repository for various donate buttons for github etc., anyone can cont
 Donate Buttons (png format):
 ### LiberaPay
 ![Image description](https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png)
+
+- I made this one and it's not perfectly smooth around the edges in the Liberapay logo, if anyone wants to fix this, please make a pull request.
+
 ### Paypal
 ![Image description](https://raw.githubusercontent.com/aha999/DonateButtons/master/Paypal.png)
 
