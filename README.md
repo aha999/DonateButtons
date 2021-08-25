@@ -1,5 +1,11 @@
 # DonateButtons
-This is a repository for various donate buttons for github etc., anyone can contribute and add new styles!
+This is a repository for various donate buttons / badges for github etc. 
+
+## Contribute
+
+- anyone can contribute and add new styles!
+- Make a pull request to add new styles
+- Add info in Issues, as to where can new buttons be found and added.
 
 Donate Buttons (png format):
 ### LiberaPay
