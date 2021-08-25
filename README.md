@@ -7,7 +7,6 @@ This is a repository for various donate buttons / badges for github etc.
 - Make a pull request to add new styles
 - Add info in Issues, as to where can new buttons be found and added.
 
-Donate Buttons (png format):
 ### LiberaPay
 ![Image description](https://raw.githubusercontent.com/aha999/DonateButtons/master/LiberaPay.png)
 
